@@ -27,5 +27,7 @@ jobs:
           .gitignore
           App.js
           babel.config.js
-          *.json
+          app.json
+          package.json
+          package-lock.json
           *.md

@@ -17,8 +17,8 @@ jobs:
         local-dir: ./
         server-dir: ./wp-content/plugins/ib-vote/
         exclude: |
-          **/.expo*
-          **/.expo-shared*
+          **/.expo/**
+          **/.expo-shared/**
           **/.git*
           **/.git*/**
           **/.github*/**

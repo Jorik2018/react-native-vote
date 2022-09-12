@@ -18,14 +18,14 @@ jobs:
         server-dir: ./wp-content/plugins/ib-vote/
         exclude: |
           **/.expo*
-		  **/.expo-shared*
+          **/.expo-shared*
           **/.git*
           **/.git*/**
 		  **/.github*/**
 		  **/assets/**
           **/node_modules/**
           .gitignore
-		  App.js
-		  babel.config.js
-		  *.json
-		  *.md
+          App.js
+          babel.config.js
+          *.json
+          *.md

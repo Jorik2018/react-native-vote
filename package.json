@@ -21,5 +21,6 @@
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
-  "private": true
+  "private": true,
+  "homepage":"/wp-content/plugins/ib-vote/web-build"
 }

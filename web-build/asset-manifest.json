@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/wp-content/plugins/ib-vote/web-build/static/js/app.97aa3244.chunk.js",
+    "app.js.map": "/wp-content/plugins/ib-vote/web-build/static/js/app.97aa3244.chunk.js.map",
+    "runtime~app.js": "/wp-content/plugins/ib-vote/web-build/static/js/runtime~app.09ec1816.js",
+    "runtime~app.js.map": "/wp-content/plugins/ib-vote/web-build/static/js/runtime~app.09ec1816.js.map",
+    "static/js/2.e8f0eca2.chunk.js": "/wp-content/plugins/ib-vote/web-build/static/js/2.e8f0eca2.chunk.js",
+    "static/js/2.e8f0eca2.chunk.js.map": "/wp-content/plugins/ib-vote/web-build/static/js/2.e8f0eca2.chunk.js.map",
+    "favicon-16.png": "/wp-content/plugins/ib-vote/web-build/favicon-16.png",
+    "favicon-32.png": "/wp-content/plugins/ib-vote/web-build/favicon-32.png",
+    "favicon.ico": "/wp-content/plugins/ib-vote/web-build/favicon.ico",
+    "index.html": "/wp-content/plugins/ib-vote/web-build/index.html",
+    "manifest.json": "/wp-content/plugins/ib-vote/web-build/manifest.json",
+    "serve.json": "/wp-content/plugins/ib-vote/web-build/serve.json",
+    "static/js/2.e8f0eca2.chunk.js.LICENSE.txt": "/wp-content/plugins/ib-vote/web-build/static/js/2.e8f0eca2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.09ec1816.js",
+    "static/js/2.e8f0eca2.chunk.js",
+    "static/js/app.97aa3244.chunk.js"
+  ]
+}

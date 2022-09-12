@@ -13,3 +13,5 @@ https://stackoverflow.com/questions/71565176/how-to-use-your-expo-react-native-a
 https://www.mongodb.com/developer/products/realm/build-offline-first-react-native-mobile-app-with-expo-and-realm/
 
 https://blog.logrocket.com/build-better-forms-with-react-native-ui-components/
+
+expo

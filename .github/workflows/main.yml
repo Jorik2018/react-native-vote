@@ -21,8 +21,8 @@ jobs:
           **/.expo-shared*
           **/.git*
           **/.git*/**
-		  **/.github*/**
-		  **/assets/**
+          **/.github*/**
+          **/assets/**
           **/node_modules/**
           .gitignore
           App.js
